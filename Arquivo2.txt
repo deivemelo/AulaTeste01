@@ -1,0 +1,4 @@
+# AulaTeste01
+## Edidanto meu arquivo README.
+
+### arquivo criado dentro do pc
